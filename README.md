@@ -4,4 +4,4 @@ Metro Nashville and Davidson County Traffic Accidents in 2019 Calendar Year.
 Metro Nashville and Davidson County Traffic Accidents in 2019 Calendar Year Analyzed raw data to discover the cities, zip codes, months with the most accidents, types of accidents and collisions, fatalities& injuries, hit & run statistics, driving conditions contributing to accidents, made a conclusion on the safest and most dangerous areas. 
 
 Tableau presentation is availble in the attachments above.
-Tableau Public link https://public.tableau.com/profile/natalia.zemchikhina#!/vizhome/MetroNashvilleandDavidsonCountyTrafficAccidentsAnalysis/Presentation
+Public Tableau link https://public.tableau.com/profile/natalia.zemchikhina#!/vizhome/MetroNashvilleandDavidsonCountyTrafficAccidentsAnalysis/Presentation
